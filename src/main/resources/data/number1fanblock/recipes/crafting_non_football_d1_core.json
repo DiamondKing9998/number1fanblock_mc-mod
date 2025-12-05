@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#$#",
+    "#%#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:orange_dye"
+    },
+    "$": {
+      "item": "number1fanblock:ncaa_d1_core"
+    },
+    "%": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "number1fanblock:non_football_d1_core"
+  }
+}

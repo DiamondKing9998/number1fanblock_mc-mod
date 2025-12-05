@@ -1,0 +1,36 @@
+{
+  "item.number1fanblock.ncaa_core": "NCAA Core",
+
+  "item.number1fanblock.ncaa_d1_core": "NCAA D1 Core",
+  "item.number1fanblock.fbs_core": "FBS (D1-A) Core",
+  "item.number1fanblock.fcs_core": "FCS (D1-AA) Core",
+  "item.number1fanblock.non_football_d1_core": "Non-Football DI Core",
+
+
+
+"//COMMENT": "Conference Cores",
+  "item.number1fanblock.american_core": "The American Conference Core",
+  "item.number1fanblock.atlantic_coast_core": "Atlantic Coast Conference Core",
+  "item.number1fanblock.big_10_core": "Big Ten Conference Core",
+  "item.number1fanblock.big_xii_core": "Big XII Conference Core",
+  "item.number1fanblock.conf_usa_core": "Conference USA Core",
+  "item.number1fanblock.fbs_independents_core": "FBS Independents Core",
+  "item.number1fanblock.mac_core": "Mid-American Conference Core",
+  "item.number1fanblock.mountain_west_core": "Mountain West Conference Core",
+  "item.number1fanblock.pac_12_core": "Pac-12 Conference Core",
+  "item.number1fanblock.southeastern_core": "Southeastern Conference Core",
+  "item.number1fanblock.sun_belt_core": "Sun Belt Conference Core",
+
+
+
+
+"//COMMENT": "The American Conference",
+  "item.number1fanblock.wichita_state_core": "Wichita State Core",
+
+"//COMMENT": "Conference USA",
+    "item.number1fanblock.liberty_core": "Liberty Core",
+
+
+
+  "creativetab.ncaa_creativetab": "NCAA Items"
+}

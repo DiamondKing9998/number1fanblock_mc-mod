@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#$#",
+    "#%#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_blue_concrete"
+    },
+    "%": {
+      "item": "minecraft:diamond"
+    },
+    "$": {
+      "item": "number1fanblock:ncaa_core"
+    }
+  },
+  "result": {
+    "item": "number1fanblock:ncaa_d1_core"
+  }
+}

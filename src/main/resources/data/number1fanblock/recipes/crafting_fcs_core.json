@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "#$#",
+    "#%#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "$": {
+      "item": "number1fanblock:ncaa_d1_core"
+    },
+    "%": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "number1fanblock:fcs_core"
+  }
+}

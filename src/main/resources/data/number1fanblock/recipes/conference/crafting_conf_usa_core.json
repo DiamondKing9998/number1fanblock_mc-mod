@@ -1,0 +1,22 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:bell"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:conf_usa_core",
+    "count": 11
+  }
+}

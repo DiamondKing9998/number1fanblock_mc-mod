@@ -1,0 +1,22 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:mac_core",
+    "count": 12
+  }
+}

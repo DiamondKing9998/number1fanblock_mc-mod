@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:dead_bush"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:pac_12_core",
+    "count": 9
+  }
+}

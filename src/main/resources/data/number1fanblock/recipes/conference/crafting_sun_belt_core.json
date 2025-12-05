@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leather_leggings"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:ochre_froglight"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:sun_belt_core",
+    "count": 13
+  }
+}

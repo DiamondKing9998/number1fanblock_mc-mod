@@ -1,0 +1,22 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:goat_horn"
+    },
+    {
+      "item": "minecraft:snow_block"
+    },
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:mountain_west_core",
+    "count": 10
+  }
+}

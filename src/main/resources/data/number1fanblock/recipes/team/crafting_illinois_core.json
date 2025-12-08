@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "item": "minecraft:sculk_vein"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    },
+    {
+      "item": "number1fanblock:big_10_core"
+    },
+    {
+      "item": "minecraft:bow"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:illinois_core",
+    "count": 4
+  }
+}

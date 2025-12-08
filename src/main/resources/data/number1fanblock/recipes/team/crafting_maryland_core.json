@@ -5,23 +5,23 @@
       "item": "minecraft:red_dye"
     },
     {
-      "item": "minecraft:blue_dye"
+      "item": "minecraft:yellow_dye"
     },
     {
-      "item": "minecraft:white_dye"
+      "item": "minecraft:black_dye"
     },
     {
       "item": "number1fanblock:fbs_core"
     },
     {
-      "item": "number1fanblock:conf_usa_core"
+      "item": "number1fanblock:big_10_core"
     },
     {
-      "item": "minecraft:fire_charge"
+      "item": "minecraft:scute"
     }
   ],
   "result": {
-    "item": "number1fanblock:liberty_core",
+    "item": "number1fanblock:maryland_core",
     "count": 4
   }
 }

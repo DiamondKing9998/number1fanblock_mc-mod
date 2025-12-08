@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sculk_vein"
+    },
+    {
+      "item": "minecraft:rabbit_hide"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    },
+    {
+      "item": "number1fanblock:mac_core"
+    },
+    {
+      "item": "minecraft:acacia_leaves"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:akron_core",
+    "count": 4
+  }
+}

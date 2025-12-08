@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    },
+    {
+      "item": "number1fanblock:big_10_core"
+    },
+    {
+      "item": "minecraft:spruce_sapling"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:ucla_core",
+    "count": 4
+  }
+}

@@ -41,8 +41,40 @@ public class ModCreativeTabs {
 
                         // THE AMERICAN CONFERENCE
                         pOutput.accept(NCAA_suite.WICHITA_STATE_CORE.get());
+                        // BIG 10 CONFERENCE
+                        pOutput.accept(NCAA_suite.ILLINOIS_CORE.get());
+                        pOutput.accept(NCAA_suite.INDIANA_CORE.get());
+                        pOutput.accept(NCAA_suite.IOWA_CORE.get());
+                        pOutput.accept(NCAA_suite.MARYLAND_CORE.get());
+                        pOutput.accept(NCAA_suite.MICHIGAN_CORE.get());
+                        pOutput.accept(NCAA_suite.MICHIGAN_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.MINNESOTA_CORE.get());
+                        pOutput.accept(NCAA_suite.NEBRASKA_CORE.get());
+                        pOutput.accept(NCAA_suite.NORTHWESTERN_CORE.get());
+                        pOutput.accept(NCAA_suite.OHIO_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.OREGON_CORE.get());
+                        pOutput.accept(NCAA_suite.PENN_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.PURDUE_CORE.get());
+                        pOutput.accept(NCAA_suite.RUTGERS_CORE.get());
+                        pOutput.accept(NCAA_suite.UCLA_CORE.get());
+                        pOutput.accept(NCAA_suite.USC_CORE.get());
+                        pOutput.accept(NCAA_suite.WASHINGTON_CORE.get());
+                        pOutput.accept(NCAA_suite.WISCONSIN_CORE.get());
                         // CONFERENCE USA
                         pOutput.accept(NCAA_suite.LIBERTY_CORE.get());
+                        // MID-AMERICAN CONFERENCE
+                        pOutput.accept(NCAA_suite.AKRON_CORE.get());
+                        pOutput.accept(NCAA_suite.BALL_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.BOWLING_GREEN_CORE.get());
+                        pOutput.accept(NCAA_suite.BUFFALO_CORE.get());
+                        pOutput.accept(NCAA_suite.CENTRAL_MICHIGAN_CORE.get());
+                        pOutput.accept(NCAA_suite.EASTERN_MICHIGAN_CORE.get());
+                        pOutput.accept(NCAA_suite.KENT_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.MIAMI_OH_CORE.get());
+                        pOutput.accept(NCAA_suite.OHIO_CORE.get());
+                        pOutput.accept(NCAA_suite.TOLEDO_CORE.get());
+                        pOutput.accept(NCAA_suite.UMASS_CORE.get());
+                        pOutput.accept(NCAA_suite.WESTERN_MICHIGAN_CORE.get());
 
                     })
                     .build());

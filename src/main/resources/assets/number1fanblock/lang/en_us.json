@@ -1,34 +1,71 @@
 {
-  "item.number1fanblock.ncaa_core": "NCAA Core",
+    "item.number1fanblock.ncaa_core": "NCAA Core",
 
-  "item.number1fanblock.ncaa_d1_core": "NCAA D1 Core",
-  "item.number1fanblock.fbs_core": "FBS (D1-A) Core",
-  "item.number1fanblock.fcs_core": "FCS (D1-AA) Core",
-  "item.number1fanblock.non_football_d1_core": "Non-Football DI Core",
+    "item.number1fanblock.ncaa_d1_core": "NCAA D1 Core",
+    "item.number1fanblock.fbs_core": "FBS (D1-A) Core",
+    "item.number1fanblock.fcs_core": "FCS (D1-AA) Core",
+    "item.number1fanblock.non_football_d1_core": "Non-Football DI Core",
 
 
 
 "//COMMENT": "Conference Cores",
-  "item.number1fanblock.american_core": "The American Conference Core",
-  "item.number1fanblock.atlantic_coast_core": "Atlantic Coast Conference Core",
-  "item.number1fanblock.big_10_core": "Big Ten Conference Core",
-  "item.number1fanblock.big_xii_core": "Big XII Conference Core",
-  "item.number1fanblock.conf_usa_core": "Conference USA Core",
-  "item.number1fanblock.fbs_independents_core": "FBS Independents Core",
-  "item.number1fanblock.mac_core": "Mid-American Conference Core",
-  "item.number1fanblock.mountain_west_core": "Mountain West Conference Core",
-  "item.number1fanblock.pac_12_core": "Pac-12 Conference Core",
-  "item.number1fanblock.southeastern_core": "Southeastern Conference Core",
-  "item.number1fanblock.sun_belt_core": "Sun Belt Conference Core",
+    "item.number1fanblock.american_core": "The American Conference Core",
+    "item.number1fanblock.atlantic_coast_core": "Atlantic Coast Conference Core",
+    "item.number1fanblock.big_10_core": "Big Ten Conference Core",
+    "item.number1fanblock.big_xii_core": "Big XII Conference Core",
+    "item.number1fanblock.conf_usa_core": "Conference USA Core",
+    "item.number1fanblock.fbs_independents_core": "FBS Independents Core",
+    "item.number1fanblock.mac_core": "Mid-American Conference Core",
+    "item.number1fanblock.mountain_west_core": "Mountain West Conference Core",
+    "item.number1fanblock.pac_12_core": "Pac-12 Conference Core",
+    "item.number1fanblock.southeastern_core": "Southeastern Conference Core",
+    "item.number1fanblock.sun_belt_core": "Sun Belt Conference Core",
 
 
 
 
 "//COMMENT": "The American Conference",
-  "item.number1fanblock.wichita_state_core": "Wichita State Core",
-
+    "item.number1fanblock.wichita_state_core": "Wichita State Core",
+"//COMMENT": "Big 10 Conference",
+    "item.number1fanblock.illinois_core": "Illinois Core",
+    "item.number1fanblock.indiana_core": "Indiana Core",
+    "item.number1fanblock.iowa_core": "Iowa Core",
+    "item.number1fanblock.maryland_core": "Maryland Core",
+    "item.number1fanblock.michigan_core": "Michigan Core",
+    "item.number1fanblock.michigan_state_core": "Michigan State Core",
+    "item.number1fanblock.minnesota_core": "Minnesota Core",
+    "item.number1fanblock.nebraska_core": "Nebraska Core",
+    "item.number1fanblock.northwestern_core": "Northwestern Core",
+    "item.number1fanblock.ohio_state_core": "Ohio State Core",
+    "item.number1fanblock.oregon_core": "Oregon Core",
+    "item.number1fanblock.penn_state_core": "Penn State Core",
+    "item.number1fanblock.purdue_core": "Purdue Core",
+    "item.number1fanblock.rutgers_core": "Rutgers Core",
+    "item.number1fanblock.ucla_core": "UCLA Core",
+    "item.number1fanblock.usc_core": "USC Core",
+    "item.number1fanblock.washington_core": "Washington Core",
+    "item.number1fanblock.wisconsin_core": "Wisconsin Core",
 "//COMMENT": "Conference USA",
     "item.number1fanblock.liberty_core": "Liberty Core",
+"//COMMENT": "Mid-American Conference",
+    "item.number1fanblock.akron_core": "Akron Core",
+    "item.number1fanblock.ball_state_core": "Ball State Core",
+    "item.number1fanblock.bowling_green_core": "Bowling Green Core",
+    "item.number1fanblock.buffalo_core": "Buffalo Core",
+    "item.number1fanblock.central_michigan_core": "Central Michigan Core",
+    "item.number1fanblock.eastern_michigan_core": "Eastern Michigan Core",
+    "item.number1fanblock.kent_state_core": "Kent State Core",
+    "item.number1fanblock.miami_oh_core": "Miami (OH) Core",
+    "item.number1fanblock.ohio_core": "Ohio Core",
+    "item.number1fanblock.toledo_core": "Toledo Core",
+    "item.number1fanblock.umass_core": "UMass Core",
+    "item.number1fanblock.western_michigan_core": "Western Michigan Core",
+
+
+
+
+
+
 
 
 

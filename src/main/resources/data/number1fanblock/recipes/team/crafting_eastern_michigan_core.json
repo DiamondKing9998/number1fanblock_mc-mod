@@ -2,10 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:red_dye"
-    },
-    {
-      "item": "minecraft:blue_dye"
+      "item": "minecraft:green_dye"
     },
     {
       "item": "minecraft:white_dye"
@@ -14,14 +11,14 @@
       "item": "number1fanblock:fbs_core"
     },
     {
-      "item": "number1fanblock:conf_usa_core"
+      "item": "number1fanblock:mac_core"
     },
     {
-      "item": "minecraft:fire_charge"
+      "item": "minecraft:feather"
     }
   ],
   "result": {
-    "item": "number1fanblock:liberty_core",
+    "item": "number1fanblock:eastern_michigan_core",
     "count": 4
   }
 }

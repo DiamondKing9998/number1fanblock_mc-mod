@@ -8,17 +8,17 @@
       "item": "minecraft:black_dye"
     },
     {
-      "item": "number1fanblock:non_football_d1_core"
+      "item": "number1fanblock:fbs_core"
     },
     {
-      "item": "number1fanblock:american_core"
+      "item": "number1fanblock:big_10_core"
     },
     {
-      "item": "minecraft:wheat"
+      "item": "minecraft:phantom_membrane"
     }
   ],
   "result": {
-    "item": "number1fanblock:wichita_state_core",
+    "item": "number1fanblock:iowa_core",
     "count": 4
   }
 }

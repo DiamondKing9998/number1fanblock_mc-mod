@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    },
+    {
+      "item": "number1fanblock:big_10_core"
+    },
+    {
+      "item": "minecraft:rooted_dirt"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:minnesota_core",
+    "count": 4
+  }
+}

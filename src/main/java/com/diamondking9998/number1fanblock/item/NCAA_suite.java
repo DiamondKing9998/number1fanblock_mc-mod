@@ -52,11 +52,75 @@ public class NCAA_suite {
     public static final RegistryObject<Item> SUN_BELT_CORE = ITEMS.register("sun_belt_core",
             () -> new Item(new Item.Properties()));
 
+
+
     //THE AMERICAN CONFERENCE
     public static final RegistryObject<Item> WICHITA_STATE_CORE = ITEMS.register("wichita_state_core",
             () -> new Item(new Item.Properties()));
+    //BIG 10 CONFERENCE
+    public static final RegistryObject<Item> ILLINOIS_CORE = ITEMS.register("illinois_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> INDIANA_CORE = ITEMS.register("indiana_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> IOWA_CORE = ITEMS.register("iowa_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MARYLAND_CORE = ITEMS.register("maryland_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MICHIGAN_CORE = ITEMS.register("michigan_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MICHIGAN_STATE_CORE = ITEMS.register("michigan_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MINNESOTA_CORE = ITEMS.register("minnesota_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> NEBRASKA_CORE = ITEMS.register("nebraska_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> NORTHWESTERN_CORE = ITEMS.register("northwestern_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> OHIO_STATE_CORE = ITEMS.register("ohio_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> OREGON_CORE = ITEMS.register("oregon_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PENN_STATE_CORE = ITEMS.register("penn_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PURDUE_CORE = ITEMS.register("purdue_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RUTGERS_CORE = ITEMS.register("rutgers_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> UCLA_CORE = ITEMS.register("ucla_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> USC_CORE = ITEMS.register("usc_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> WASHINGTON_CORE = ITEMS.register("washington_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> WISCONSIN_CORE = ITEMS.register("wisconsin_core",
+            () -> new Item(new Item.Properties()));
     //CONFERENCE USA
     public static final RegistryObject<Item> LIBERTY_CORE = ITEMS.register("liberty_core",
+            () -> new Item(new Item.Properties()));
+    //MID-AMERICAN CONFERENCE
+    public static final RegistryObject<Item> AKRON_CORE = ITEMS.register("akron_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BALL_STATE_CORE = ITEMS.register("ball_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BOWLING_GREEN_CORE = ITEMS.register("bowling_green_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BUFFALO_CORE = ITEMS.register("buffalo_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CENTRAL_MICHIGAN_CORE = ITEMS.register("central_michigan_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> EASTERN_MICHIGAN_CORE = ITEMS.register("eastern_michigan_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> KENT_STATE_CORE = ITEMS.register("kent_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MIAMI_OH_CORE = ITEMS.register("miami_oh_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> OHIO_CORE = ITEMS.register("ohio_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> TOLEDO_CORE = ITEMS.register("toledo_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> UMASS_CORE = ITEMS.register("umass_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> WESTERN_MICHIGAN_CORE = ITEMS.register("western_michigan_core",
             () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {

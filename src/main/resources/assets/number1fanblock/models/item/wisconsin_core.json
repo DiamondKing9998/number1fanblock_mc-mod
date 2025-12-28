@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "number1fanblock:item/team/wisconsin_core"
+    "layer0": "number1fanblock:item/team/big_10/wisconsin_core"
   }
 }

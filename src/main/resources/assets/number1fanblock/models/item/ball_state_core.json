@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "number1fanblock:item/team/ball_state_core"
+    "layer0": "number1fanblock:item/team/mac/ball_state_core"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "number1fanblock:item/team/indiana_core"
+    "layer0": "number1fanblock:item/team/big_10/indiana_core"
   }
 }

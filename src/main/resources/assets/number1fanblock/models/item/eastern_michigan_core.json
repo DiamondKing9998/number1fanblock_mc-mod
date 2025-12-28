@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "number1fanblock:item/team/eastern_michigan_core"
+    "layer0": "number1fanblock:item/team/mac/eastern_michigan_core"
   }
 }

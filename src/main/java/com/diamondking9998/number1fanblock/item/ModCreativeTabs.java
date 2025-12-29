@@ -61,7 +61,16 @@ public class ModCreativeTabs {
                         pOutput.accept(NCAA_suite.WASHINGTON_CORE.get());
                         pOutput.accept(NCAA_suite.WISCONSIN_CORE.get());
                         // CONFERENCE USA
+                        pOutput.accept(NCAA_suite.DELAWARE_CORE.get());
+                        pOutput.accept(NCAA_suite.FIU_CORE.get());
+                        pOutput.accept(NCAA_suite.JAX_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.KENNESAW_STATE_CORE.get());
                         pOutput.accept(NCAA_suite.LIBERTY_CORE.get());
+                        pOutput.accept(NCAA_suite.MIDDLE_TENNESSEE_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.MISSOURI_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.NEW_MEXICO_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.SAM_HOUSTON_STATE_CORE.get());
+                        pOutput.accept(NCAA_suite.WESTERN_KENTUCKY_CORE.get());
                         // MID-AMERICAN CONFERENCE
                         pOutput.accept(NCAA_suite.AKRON_CORE.get());
                         pOutput.accept(NCAA_suite.BALL_STATE_CORE.get());

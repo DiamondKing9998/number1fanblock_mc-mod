@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    },
+    {
+      "item": "number1fanblock:conf_usa_core"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:delaware_core",
+    "count": 4
+  }
+}

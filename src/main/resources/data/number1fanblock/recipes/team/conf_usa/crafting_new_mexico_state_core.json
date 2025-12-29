@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_brick"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "number1fanblock:fbs_core"
+    },
+    {
+      "item": "number1fanblock:conf_usa_core"
+    },
+    {
+      "item": "minecraft:leather_boots"
+    }
+  ],
+  "result": {
+    "item": "number1fanblock:new_mexico_state_core",
+    "count": 4
+  }
+}

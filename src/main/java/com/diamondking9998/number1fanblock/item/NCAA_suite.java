@@ -95,7 +95,25 @@ public class NCAA_suite {
     public static final RegistryObject<Item> WISCONSIN_CORE = ITEMS.register("wisconsin_core",
             () -> new Item(new Item.Properties()));
     //CONFERENCE USA
+    public static final RegistryObject<Item> DELAWARE_CORE = ITEMS.register("delaware_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> FIU_CORE = ITEMS.register("fiu_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> JAX_STATE_CORE = ITEMS.register("jax_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> KENNESAW_STATE_CORE = ITEMS.register("kennesaw_state_core",
+            () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LIBERTY_CORE = ITEMS.register("liberty_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MIDDLE_TENNESSEE_STATE_CORE = ITEMS.register("middle_tennessee_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MISSOURI_STATE_CORE = ITEMS.register("missouri_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> NEW_MEXICO_STATE_CORE = ITEMS.register("new_mexico_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SAM_HOUSTON_STATE_CORE = ITEMS.register("sam_houston_state_core",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> WESTERN_KENTUCKY_CORE = ITEMS.register("western_kentucky_core",
             () -> new Item(new Item.Properties()));
     //MID-AMERICAN CONFERENCE
     public static final RegistryObject<Item> AKRON_CORE = ITEMS.register("akron_core",
